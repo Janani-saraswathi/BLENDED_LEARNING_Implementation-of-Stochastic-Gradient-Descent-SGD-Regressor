@@ -95,8 +95,11 @@ plt.show()
 
 ## Output:
 <img width="686" height="532" alt="ml exp 4 1" src="https://github.com/user-attachments/assets/73b65174-ea3d-4e23-aa04-a50053565d70" />
+
 <img width="475" height="553" alt="ml exp 4 2" src="https://github.com/user-attachments/assets/f2bdcc35-721c-4047-93a1-5fc0b6fd6d00" />
+
 <img width="682" height="298" alt="ml exp 4 3" src="https://github.com/user-attachments/assets/bdc78cbe-1dd9-4d74-96d5-2fc8a3df2e58" />
+
 <img width="652" height="452" alt="ml exp 4 4" src="https://github.com/user-attachments/assets/348aaa79-a815-4338-bb1b-cf283c9ae90d" />
 
 
